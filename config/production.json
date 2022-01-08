@@ -1,6 +1,6 @@
 {
   "port": 5000,
   "jwtSecret": "fialka",
-  "mongoUri": "mongodb+srv://Dmytro:Lalka123@urlshorter.fjtm8.mongodb.net/urlShorter?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv://Dmytro:<password>@urlshorter.fjtm8.mongodb.net/urlShorter?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
